@@ -9,10 +9,16 @@ My earliest memory of any career guidance came from a grade school English teach
 
 I find cleaning dirty data to be extremely satisfying and I love deciphering the story from the numbers and relaying it to others.
 
-I'm looking for new opportunites in Data Science. If you have any leads, please don't hesitate to reach out.
+I'm looking for new opportunites in Data Science. If you have any leads, please don't hesitate to reach out:
 
 <jacksonapeoples@gmail.com>
 
 [Linkedin](https://www.linkedin.com/in/jacksonpeoples/)
 
 [GitHub](https://github.com/jacksonpeoples)
+
+***
+
+When I'm not visualizing data and building predictive models, I love running, cooking, playing guitar and watching football.
+
+![baby](/img/Jackson-1-cowboys.JPEG)
