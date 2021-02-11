@@ -1,6 +1,6 @@
 title:              Jackson Peoples
 email:              jacksonapeoples@gmail.com
-description:        Data Science Portfolio
+description:        Data Science | Data Analytics | Machine Learning
 author:             Jackson
 baseurl:            ""
 url:                "https://JacksonPeoples.github.io"
@@ -10,7 +10,7 @@ twitter_username:
 github_username:    JacksonPeoples
 facebook_username:  
 instagram_username:  
-linkedin_username:
+linkedin_username:    jacksonpeoples
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code

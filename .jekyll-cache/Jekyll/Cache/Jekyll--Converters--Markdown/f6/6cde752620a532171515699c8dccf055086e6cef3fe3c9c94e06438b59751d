@@ -1,0 +1,3 @@
+I"‚<h1 id="detecting-cars-in-aerial-imagery">Detecting Cars in Aerial Imagery</h1>
+<p>In a <a href="https://github.com/JacksonPeoples/AustinCrashes">previous project</a>, I looked at patterns in traffic collisions and created a model to predict hourly crashes in Austin, Texas. While the model was still fairly useful, I was unfortunately unable to find extensive traffic volume data.</p>
+:ET
