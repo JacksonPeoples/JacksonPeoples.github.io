@@ -6,7 +6,7 @@ background: '/img/bg-contact.jpg'
 form: true
 ---
 
-Want to get in touch? Feel free to send me a message or connect on Linkedin:
+Want to get in touch? Feel free to email me or connect via Linkedin:
 
 <jacksonapeoples@gmail.com>
 
