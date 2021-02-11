@@ -19,6 +19,6 @@ I'm looking for new opportunites in Data Science. If you have any leads, please 
 
 ***
 
-When I'm not visualizing data and building predictive models, I love running, cooking, playing guitar and watching football.
+When I'm not visualizing data or training models, I love running, cooking, playing guitar and watching football.
 
 ![baby](/img/Jackson-1-cowboys.JPEG)
